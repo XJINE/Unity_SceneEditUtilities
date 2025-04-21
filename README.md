@@ -1,5 +1,7 @@
 # Unity_SceneEditUtilities
 
+Include utility functions for editing the scene.
+
 ## Importing
 
 You can use Package Manager or import it directly.
